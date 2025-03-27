@@ -1,0 +1,1 @@
+# alvi.khanom.github.ionewqrcode
