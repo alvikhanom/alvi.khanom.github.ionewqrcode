@@ -1,6 +1,6 @@
 import qrcode
 
-website_link = 'The link to the github website that asks for the password/'
+website_link = 'https://alvikhanom.github.io/alvi.khanom.github.ionewqrcode/'
 
 qr = qrcode.QRCode(version = 1, box_size = 5, border = 5)
 qr.add_data(website_link)
